@@ -3,8 +3,8 @@ id: "C-001"
 title: "Lenny"
 date: "05/15/2024"
 documentedBy:
-  - "M. Trolliver": "maximilien-trolliver"
-  - "A. Murrah": "alfred-murrah"
+  - "M. Trolliver": "/members/member/maximilien-trolliver"
+  - "A. Murrah": "/members/member/alfred-murrah"
   - "Polar": null
 ---
 
