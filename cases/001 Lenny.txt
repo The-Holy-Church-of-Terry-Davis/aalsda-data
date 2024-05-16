@@ -1,6 +1,7 @@
 ---
 id: "C-001"
 title: "Lenny"
+date: "05/15/2024"
 documentedBy:
   - "M. Trolliver": "maximilien-trolliver"
   - "A. Murrah": "alfred-murrah"
