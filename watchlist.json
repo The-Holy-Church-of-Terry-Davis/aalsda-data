@@ -6,7 +6,8 @@
         "none known"
       ],
       "discordUserId": "unknown",
-      "reason": "Lenny is the reason the AALSDA was founded. He will forever be on this watchlist. The current whereabouts of Lenny are unknown, please join one of the parent organization servers if you have any information regarding the whereabouts of Lenny."
+      "reason": "Lenny is the reason the AALSDA was founded. He will forever be on this watchlist. The current whereabouts of Lenny are unknown, please join one of the parent organization servers if you have any information regarding the whereabouts of Lenny.",
+      "relatedCaseId": "001"
     },
     {
       "name": "Steve",
@@ -15,7 +16,8 @@
         "29999999992"
       ],
       "discordUserId": "1225137401152671876",
-      "reason": "Coming soon."
+      "reason": "Coming soon.",
+      "relatedCaseId": null
     }
   ]
 }
